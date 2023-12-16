@@ -1,0 +1,268 @@
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Clockify2.exe
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Clockify2.deps.json
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Clockify2.runtimeconfig.json
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Clockify2.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Clockify2.pdb
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Azure.Core.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Azure.Identity.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Guna.UI2.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Humanizer.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Data.SqlClient.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.EntityFrameworkCore.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Logging.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Options.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Primitives.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Identity.Client.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.Logging.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.SqlServer.Server.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\Mono.TextTemplating.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\System.Management.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\System.Memory.Data.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\System.Runtime.Caching.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net7.0\System.Management.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.csproj.AssemblyReference.cache
+D:\Clockify\Task-Manger-App-main\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Home_page.resources
+D:\Clockify\Task-Manger-App-main\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Login.resources
+D:\Clockify\Task-Manger-App-main\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Properties.Resources.resources
+D:\Clockify\Task-Manger-App-main\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Register.resources
+D:\Clockify\Task-Manger-App-main\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Task.resources
+D:\Clockify\Task-Manger-App-main\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Welcome.resources
+D:\Clockify\Task-Manger-App-main\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.csproj.GenerateResource.cache
+D:\Clockify\Task-Manger-App-main\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clockify\Task-Manger-App-main\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.AssemblyInfoInputs.cache
+D:\Clockify\Task-Manger-App-main\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.AssemblyInfo.cs
+D:\Clockify\Task-Manger-App-main\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.csproj.CoreCompileInputs.cache
+D:\Clockify\Task-Manger-App-main\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.csproj.CopyComplete
+D:\Clockify\Task-Manger-App-main\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\obj\Debug\net7.0-windows7.0\refint\Clockify2.dll
+D:\Clockify\Task-Manger-App-main\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.pdb
+D:\Clockify\Task-Manger-App-main\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.genruntimeconfig.cache
+D:\Clockify\Task-Manger-App-main\Clockify2\obj\Debug\net7.0-windows7.0\ref\Clockify2.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Clockify2.exe
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Clockify2.deps.json
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Clockify2.runtimeconfig.json
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Clockify2.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Clockify2.pdb
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Azure.Core.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Azure.Identity.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Guna.UI2.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Humanizer.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Options.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Identity.Client.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Mono.TextTemplating.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\System.Management.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\System.Memory.Data.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\System.Runtime.Caching.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.csproj.AssemblyReference.cache
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Home_page.resources
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Login.resources
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Properties.Resources.resources
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Register.resources
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Task.resources
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Welcome.resources
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.csproj.GenerateResource.cache
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.AssemblyInfoInputs.cache
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.AssemblyInfo.cs
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.csproj.CoreCompileInputs.cache
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.csproj.CopyComplete
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\refint\Clockify2.dll
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.pdb
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.genruntimeconfig.cache
+C:\Users\Marley Amged\Desktop\New folder (2)\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\ref\Clockify2.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Clockify2.exe
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Clockify2.deps.json
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Clockify2.runtimeconfig.json
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Clockify2.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Clockify2.pdb
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Azure.Core.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Azure.Identity.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Guna.UI2.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Humanizer.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Options.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Identity.Client.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Mono.TextTemplating.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\System.Management.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\System.Memory.Data.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\System.Runtime.Caching.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.csproj.AssemblyReference.cache
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Home_page.resources
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Login.resources
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Properties.Resources.resources
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Register.resources
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Task.resources
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Welcome.resources
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.csproj.GenerateResource.cache
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.AssemblyInfoInputs.cache
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.AssemblyInfo.cs
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.csproj.CoreCompileInputs.cache
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.csproj.CopyComplete
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\refint\Clockify2.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.pdb
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.genruntimeconfig.cache
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\ref\Clockify2.dll
+C:\Users\Marley Amged\Desktop\New folder\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.settings.resources
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Clockify2.exe
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Clockify2.deps.json
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Clockify2.runtimeconfig.json
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Clockify2.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Clockify2.pdb
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Azure.Core.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Azure.Identity.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Guna.UI2.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Humanizer.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Data.SqlClient.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.EntityFrameworkCore.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.DependencyModel.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Logging.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Options.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Primitives.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Identity.Client.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.Logging.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Microsoft.SqlServer.Server.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\Mono.TextTemplating.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\System.Management.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\System.Memory.Data.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\System.Runtime.Caching.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net7.0\System.Management.dll
+D:\GitHub push\Task-Manger-App\Clockify2\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\GitHub push\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.csproj.AssemblyReference.cache
+D:\GitHub push\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Home_page.resources
+D:\GitHub push\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Login.resources
+D:\GitHub push\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Properties.Resources.resources
+D:\GitHub push\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Register.resources
+D:\GitHub push\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.settings.resources
+D:\GitHub push\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Task.resources
+D:\GitHub push\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.View_persons.resources
+D:\GitHub push\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.Welcome.resources
+D:\GitHub push\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.csproj.GenerateResource.cache
+D:\GitHub push\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub push\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.AssemblyInfoInputs.cache
+D:\GitHub push\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.AssemblyInfo.cs
+D:\GitHub push\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.csproj.CoreCompileInputs.cache
+D:\GitHub push\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.sourcelink.json
+D:\GitHub push\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.csproj.CopyComplete
+D:\GitHub push\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.dll
+D:\GitHub push\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\refint\Clockify2.dll
+D:\GitHub push\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.pdb
+D:\GitHub push\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\Clockify2.genruntimeconfig.cache
+D:\GitHub push\Task-Manger-App\Clockify2\obj\Debug\net7.0-windows7.0\ref\Clockify2.dll
