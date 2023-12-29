@@ -26,6 +26,11 @@ namespace Clockify2.Data
         public ICollection<SubTask> SubTasks { get; set; }
         [ForeignKey("PId")]
         public virtual Person P_Id { get; set; }
+
+        //public static implicit operator Task(Task v)
+        //{
+        //    throw new NotImplementedException();
+        //}
         //public virtual Team team_Id { get;  set; }
 
     }

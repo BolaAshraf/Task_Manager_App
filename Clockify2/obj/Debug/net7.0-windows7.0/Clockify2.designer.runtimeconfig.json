@@ -12,12 +12,11 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\bolam\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\bolam\\.nuget\\packages"
+      "C:\\Users\\Marley Amged\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Marley Amged\\.nuget\\packages"
     ],
     "configProperties": {
       "System.Reflection.NullabilityInfoContext.IsSupported": true,
-      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
     }
   }

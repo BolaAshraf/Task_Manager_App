@@ -1,3 +1,5 @@
+using Clockify2.Data;
+
 namespace Clockify2
 {
     internal static class Program

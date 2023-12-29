@@ -29,176 +29,184 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Login));
-            label1 = new Label();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
-            button1 = new Button();
-            label3 = new Label();
-            label2 = new Label();
-            pictureBox2 = new PictureBox();
-            linkLabel1 = new LinkLabel();
-            label4 = new Label();
+            pictureBox1 = new PictureBox();
+            label7 = new Label();
             button3 = new Button();
-            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
+            label4 = new Label();
+            linkLabel1 = new LinkLabel();
+            label3 = new Label();
+            button1 = new Button();
+            textBox2 = new TextBox();
+            textBox1 = new TextBox();
+            label1 = new Label();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
-            // label1
+            // pictureBox1
             // 
-            label1.AutoSize = true;
-            label1.Font = new Font("MV Boli", 15.9000006F, FontStyle.Bold, GraphicsUnit.Point);
-            label1.ForeColor = Color.Teal;
-            label1.Location = new Point(45, 103);
-            label1.Margin = new Padding(1, 0, 1, 0);
-            label1.Name = "label1";
-            label1.Size = new Size(119, 29);
-            label1.TabIndex = 0;
-            label1.Text = "Username";
+            pictureBox1.BackColor = Color.WhiteSmoke;
+            pictureBox1.Dock = DockStyle.Fill;
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(0, 0);
+            pictureBox1.Margin = new Padding(3, 4, 3, 4);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(1646, 954);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 0;
+            pictureBox1.TabStop = false;
+            pictureBox1.Click += pictureBox1_Click;
             // 
-            // textBox1
+            // label7
             // 
-            textBox1.Location = new Point(45, 144);
-            textBox1.Margin = new Padding(1);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(231, 23);
-            textBox1.TabIndex = 1;
-            // 
-            // textBox2
-            // 
-            textBox2.Location = new Point(45, 229);
-            textBox2.Margin = new Padding(1);
-            textBox2.MaxLength = 12;
-            textBox2.Name = "textBox2";
-            textBox2.PasswordChar = '•';
-            textBox2.Size = new Size(231, 23);
-            textBox2.TabIndex = 3;
-            // 
-            // button1
-            // 
-            button1.BackColor = Color.Teal;
-            button1.Font = new Font("MV Boli", 15.9000006F, FontStyle.Bold, GraphicsUnit.Point);
-            button1.ForeColor = Color.LightYellow;
-            button1.Location = new Point(294, 326);
-            button1.Margin = new Padding(1);
-            button1.Name = "button1";
-            button1.Size = new Size(94, 36);
-            button1.TabIndex = 4;
-            button1.Text = "Login";
-            button1.UseVisualStyleBackColor = false;
-            button1.Click += button1_Click;
-            // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.Font = new Font("MV Boli", 15.9000006F, FontStyle.Bold, GraphicsUnit.Point);
-            label3.ForeColor = Color.Teal;
-            label3.Location = new Point(45, 182);
-            label3.Margin = new Padding(1, 0, 1, 0);
-            label3.Name = "label3";
-            label3.Size = new Size(113, 29);
-            label3.TabIndex = 5;
-            label3.Text = "Password";
-            // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.Font = new Font("MV Boli", 36F, FontStyle.Bold, GraphicsUnit.Point);
-            label2.ForeColor = Color.Teal;
-            label2.Location = new Point(190, 26);
-            label2.Margin = new Padding(1, 0, 1, 0);
-            label2.Name = "label2";
-            label2.Size = new Size(148, 63);
-            label2.TabIndex = 6;
-            label2.Text = "Login";
-            label2.Click += label2_Click;
-            // 
-            // pictureBox2
-            // 
-            pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
-            pictureBox2.Location = new Point(27, 10);
-            pictureBox2.Margin = new Padding(1);
-            pictureBox2.Name = "pictureBox2";
-            pictureBox2.Size = new Size(104, 91);
-            pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
-            pictureBox2.TabIndex = 22;
-            pictureBox2.TabStop = false;
-            pictureBox2.Click += pictureBox2_Click;
-            // 
-            // linkLabel1
-            // 
-            linkLabel1.AutoSize = true;
-            linkLabel1.Font = new Font("MV Boli", 9F, FontStyle.Bold, GraphicsUnit.Point);
-            linkLabel1.Location = new Point(88, 281);
-            linkLabel1.Margin = new Padding(1, 0, 1, 0);
-            linkLabel1.Name = "linkLabel1";
-            linkLabel1.Size = new Size(58, 17);
-            linkLabel1.TabIndex = 23;
-            linkLabel1.TabStop = true;
-            linkLabel1.Text = "Sign up";
-            linkLabel1.LinkClicked += linkLabel1_LinkClicked;
-            // 
-            // label4
-            // 
-            label4.AutoSize = true;
-            label4.Font = new Font("MV Boli", 9F, FontStyle.Bold, GraphicsUnit.Point);
-            label4.ForeColor = Color.Teal;
-            label4.Location = new Point(45, 267);
-            label4.Margin = new Padding(1, 0, 1, 0);
-            label4.Name = "label4";
-            label4.Size = new Size(172, 17);
-            label4.TabIndex = 24;
-            label4.Text = "Don't have an account ?";
+            label7.AutoSize = true;
+            label7.BackColor = Color.WhiteSmoke;
+            label7.Font = new Font("Microsoft Sans Serif", 39.75F, FontStyle.Italic, GraphicsUnit.Point);
+            label7.ForeColor = Color.SlateBlue;
+            label7.Location = new Point(577, 106);
+            label7.Margin = new Padding(1, 0, 1, 0);
+            label7.Name = "label7";
+            label7.Size = new Size(515, 76);
+            label7.TabIndex = 55;
+            label7.Text = "Welcome Back !";
             // 
             // button3
             // 
-            button3.BackColor = Color.Teal;
+            button3.BackColor = Color.Gainsboro;
             button3.Font = new Font("MV Boli", 15.9000006F, FontStyle.Bold, GraphicsUnit.Point);
-            button3.ForeColor = Color.LightYellow;
-            button3.Location = new Point(27, 330);
+            button3.ForeColor = Color.SlateBlue;
+            button3.Location = new Point(416, 709);
             button3.Margin = new Padding(1);
             button3.Name = "button3";
-            button3.Size = new Size(94, 36);
-            button3.TabIndex = 45;
+            button3.Size = new Size(107, 48);
+            button3.TabIndex = 54;
             button3.Text = "Back";
             button3.UseVisualStyleBackColor = false;
             button3.Click += button3_Click;
             // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.BackColor = Color.Gainsboro;
+            label4.Font = new Font("MV Boli", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
+            label4.ForeColor = Color.SlateBlue;
+            label4.Location = new Point(664, 709);
+            label4.Margin = new Padding(1, 0, 1, 0);
+            label4.Name = "label4";
+            label4.Size = new Size(348, 34);
+            label4.TabIndex = 53;
+            label4.Text = "Don't have an account ?";
+            // 
+            // linkLabel1
+            // 
+            linkLabel1.AutoSize = true;
+            linkLabel1.BackColor = Color.Gainsboro;
+            linkLabel1.Font = new Font("MV Boli", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
+            linkLabel1.LinkColor = Color.SlateBlue;
+            linkLabel1.Location = new Point(1030, 709);
+            linkLabel1.Margin = new Padding(1, 0, 1, 0);
+            linkLabel1.Name = "linkLabel1";
+            linkLabel1.Size = new Size(117, 34);
+            linkLabel1.TabIndex = 52;
+            linkLabel1.TabStop = true;
+            linkLabel1.Text = "Sign up";
+            linkLabel1.LinkClicked += linkLabel1_LinkClicked_1;
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.BackColor = Color.WhiteSmoke;
+            label3.Font = new Font("Microsoft Sans Serif", 24F, FontStyle.Bold, GraphicsUnit.Point);
+            label3.ForeColor = Color.SlateBlue;
+            label3.Location = new Point(587, 441);
+            label3.Margin = new Padding(1, 0, 1, 0);
+            label3.Name = "label3";
+            label3.Size = new Size(204, 46);
+            label3.TabIndex = 51;
+            label3.Text = "Password";
+            // 
+            // button1
+            // 
+            button1.BackColor = Color.SlateBlue;
+            button1.Font = new Font("Microsoft Sans Serif", 27.75F, FontStyle.Regular, GraphicsUnit.Point);
+            button1.ForeColor = Color.Transparent;
+            button1.Location = new Point(753, 564);
+            button1.Margin = new Padding(1);
+            button1.Name = "button1";
+            button1.Size = new Size(241, 109);
+            button1.TabIndex = 50;
+            button1.Text = "Login";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click_1;
+            // 
+            // textBox2
+            // 
+            textBox2.Font = new Font("Microsoft Sans Serif", 15.75F, FontStyle.Regular, GraphicsUnit.Point);
+            textBox2.Location = new Point(587, 506);
+            textBox2.Margin = new Padding(1);
+            textBox2.MaxLength = 12;
+            textBox2.Name = "textBox2";
+            textBox2.PasswordChar = '•';
+            textBox2.Size = new Size(550, 37);
+            textBox2.TabIndex = 49;
+            // 
+            // textBox1
+            // 
+            textBox1.Font = new Font("Microsoft Sans Serif", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
+            textBox1.Location = new Point(587, 353);
+            textBox1.Margin = new Padding(1);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(550, 37);
+            textBox1.TabIndex = 48;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.BackColor = Color.WhiteSmoke;
+            label1.Font = new Font("Microsoft Sans Serif", 24F, FontStyle.Bold, GraphicsUnit.Point);
+            label1.ForeColor = Color.SlateBlue;
+            label1.Location = new Point(587, 290);
+            label1.Margin = new Padding(1, 0, 1, 0);
+            label1.Name = "label1";
+            label1.Size = new Size(211, 46);
+            label1.TabIndex = 47;
+            label1.Text = "Username";
+            // 
             // Login
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.LightYellow;
-            ClientSize = new Size(416, 374);
+            BackColor = Color.SlateBlue;
+            ClientSize = new Size(1646, 954);
+            Controls.Add(label7);
             Controls.Add(button3);
             Controls.Add(label4);
             Controls.Add(linkLabel1);
-            Controls.Add(pictureBox2);
-            Controls.Add(label2);
             Controls.Add(label3);
             Controls.Add(button1);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
             Controls.Add(label1);
-            FormBorderStyle = FormBorderStyle.None;
+            Controls.Add(pictureBox1);
             Margin = new Padding(1);
             Name = "Login";
             Text = "Login";
             Load += Login_Load;
-            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private Label label1;
-        private TextBox textBox1;
-        private TextBox textBox2;
-        private Button button1;
-        private Label label3;
-        private Label label2;
-        private PictureBox pictureBox2;
-        private LinkLabel linkLabel1;
-        private Label label4;
+        private PictureBox pictureBox1;
+        private Label label7;
         private Button button3;
+        private Label label4;
+        private LinkLabel linkLabel1;
+        private Label label3;
+        private Button button1;
+        private TextBox textBox2;
+        private TextBox textBox1;
+        private Label label1;
     }
 }

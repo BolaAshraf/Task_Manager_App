@@ -1,4 +1,5 @@
 ﻿using Clockify2.Data;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Query.SqlExpressions;
 using System;
 using System.Collections.Generic;
@@ -15,13 +16,47 @@ namespace Clockify2
 {
     public partial class settings : Form
     {
+        ClockifyContext context = new ClockifyContext();
         Person person;
+
+        public static string Birth { get; internal set; }
+
         public settings(Person ma)
         {
             InitializeComponent();
+            UpgradeFullscreen();
             this.person = ma;
         }
-
+        private System.Drawing.Size oldsize = new System.Drawing.Size(300, 300);
+        private System.Drawing.Point oldlocation = new System.Drawing.Point(0, 0);
+        private System.Windows.Forms.FormWindowState oldstate = System.Windows.Forms.FormWindowState.Normal;
+        private System.Windows.Forms.FormBorderStyle oldstyle = System.Windows.Forms.FormBorderStyle.Sizable;
+        private bool fullscreen = false;
+        /// <summary>
+        /// Goes to fullscreen or the old state.
+        /// </summary>
+        private void UpgradeFullscreen()
+        {
+            if (!fullscreen)
+            {
+                oldsize = this.Size;
+                oldstate = this.WindowState;
+                oldstyle = this.FormBorderStyle;
+                oldlocation = this.Location;
+                this.WindowState = System.Windows.Forms.FormWindowState.Normal;
+                this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+                this.Bounds = System.Windows.Forms.Screen.PrimaryScreen.Bounds;
+                fullscreen = true;
+            }
+            else
+            {
+                this.Location = oldlocation;
+                this.WindowState = oldstate;
+                this.FormBorderStyle = oldstyle;
+                this.Size = oldsize;
+                fullscreen = false;
+            }
+        }
         private void settings_Load(object sender, EventArgs e)
         {
             textBox1.Text = person.P_Name;
@@ -33,7 +68,7 @@ namespace Clockify2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            ClockifyContext context = new ClockifyContext();
+            
             if (!string.IsNullOrWhiteSpace(textBox1.Text))
             {
                 person.P_Name = textBox1.Text;
@@ -54,7 +89,7 @@ namespace Clockify2
                                 {
                                     if (textBox4.Text == textBox5.Text)
                                     {
-                                        person.pass= textBox5.Text;
+                                        person.pass = textBox5.Text;
 
                                         context.Persons.Update(person);
                                         context.SaveChanges();
@@ -76,7 +111,7 @@ namespace Clockify2
                                 MessageBox.Show("Error: The password you entered doesn't match your current password");
                             }
                         }
-                        else if(string.IsNullOrWhiteSpace(textBox2.Text) && string.IsNullOrWhiteSpace(textBox4.Text) && string.IsNullOrWhiteSpace(textBox4.Text))
+                        else if (string.IsNullOrWhiteSpace(textBox2.Text) && string.IsNullOrWhiteSpace(textBox4.Text) && string.IsNullOrWhiteSpace(textBox4.Text))
                         {
                             context.Persons.Update(person);
                             context.SaveChanges();
@@ -98,7 +133,7 @@ namespace Clockify2
             {
                 MessageBox.Show("ERROR : you should enter your name ");
             }
-            
+
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -126,6 +161,36 @@ namespace Clockify2
         private void label9_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            var per = context.Persons.Where(a=>a.P_Id==person.P_Id).ExecuteDelete();
+            MessageBox.Show("Your Account has been deleted successfully");
+            this.Close();
+            Thread th = new Thread(openForm);
+            th.SetApartmentState(ApartmentState.STA);
+            th.Start();
+
+        }
+        void openForm()
+        {
+            Application.Run(new Register());
         }
     }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub push\\Task-Manger-App\\Clockify2\\Clockify2.csproj": {}
+    "C:\\Users\\Marley Amged\\Desktop\\New folder (2)\\Task-Manger-App\\Clockify2\\Clockify2.csproj": {}
   },
   "projects": {
-    "D:\\GitHub push\\Task-Manger-App\\Clockify2\\Clockify2.csproj": {
+    "C:\\Users\\Marley Amged\\Desktop\\New folder (2)\\Task-Manger-App\\Clockify2\\Clockify2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub push\\Task-Manger-App\\Clockify2\\Clockify2.csproj",
+        "projectUniqueName": "C:\\Users\\Marley Amged\\Desktop\\New folder (2)\\Task-Manger-App\\Clockify2\\Clockify2.csproj",
         "projectName": "Clockify2",
-        "projectPath": "D:\\GitHub push\\Task-Manger-App\\Clockify2\\Clockify2.csproj",
-        "packagesPath": "C:\\Users\\bolam\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub push\\Task-Manger-App\\Clockify2\\obj\\",
+        "projectPath": "C:\\Users\\Marley Amged\\Desktop\\New folder (2)\\Task-Manger-App\\Clockify2\\Clockify2.csproj",
+        "packagesPath": "C:\\Users\\Marley Amged\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marley Amged\\Desktop\\New folder (2)\\Task-Manger-App\\Clockify2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\bolam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Marley Amged\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +40,10 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows7.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
             "Guna.UI2.WinForms": {
               "target": "Package",
               "version": "[2.0.4.6, )"
@@ -78,7 +82,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
