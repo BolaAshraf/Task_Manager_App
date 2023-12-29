@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Clockify2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6a2b352857cbca18a65b13bcc9c8e38cd9a7d15")]
 [assembly: System.Reflection.AssemblyProductAttribute("Clockify2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Clockify2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

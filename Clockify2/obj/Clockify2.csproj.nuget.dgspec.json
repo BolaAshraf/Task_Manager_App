@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marley Amged\\Desktop\\New folder (2)\\Task-Manger-App\\Clockify2\\Clockify2.csproj": {}
+    "C:\\Users\\bolam\\Desktop\\test2\\Task_Manager_App\\Clockify2\\Clockify2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marley Amged\\Desktop\\New folder (2)\\Task-Manger-App\\Clockify2\\Clockify2.csproj": {
+    "C:\\Users\\bolam\\Desktop\\test2\\Task_Manager_App\\Clockify2\\Clockify2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marley Amged\\Desktop\\New folder (2)\\Task-Manger-App\\Clockify2\\Clockify2.csproj",
+        "projectUniqueName": "C:\\Users\\bolam\\Desktop\\test2\\Task_Manager_App\\Clockify2\\Clockify2.csproj",
         "projectName": "Clockify2",
-        "projectPath": "C:\\Users\\Marley Amged\\Desktop\\New folder (2)\\Task-Manger-App\\Clockify2\\Clockify2.csproj",
-        "packagesPath": "C:\\Users\\Marley Amged\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marley Amged\\Desktop\\New folder (2)\\Task-Manger-App\\Clockify2\\obj\\",
+        "projectPath": "C:\\Users\\bolam\\Desktop\\test2\\Task_Manager_App\\Clockify2\\Clockify2.csproj",
+        "packagesPath": "C:\\Users\\bolam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bolam\\Desktop\\test2\\Task_Manager_App\\Clockify2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Marley Amged\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bolam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,7 +82,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

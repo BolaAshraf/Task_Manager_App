@@ -28,6 +28,12 @@
     <Compile Update="showsubtask.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Task.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View_persons.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Welcome.cs">
       <SubType>Form</SubType>
     </Compile>
